@@ -3,7 +3,7 @@ services:
   api:
     build: ./cms
     ports:
-      - '3000:3000'
+      - '8000:3000'
     depends_on:
       - mongo
   mongo:
