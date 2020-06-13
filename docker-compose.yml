@@ -1,0 +1,17 @@
+version: '3'
+services:
+  api:
+    build: ./cms
+    ports:
+      - '3000:3000'
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    ports:
+      - '12345:27017'
+    environment:
+        MONGO_INITDB_ROOT_USERNAME: admin
+        MONGO_INITDB_ROOT_PASSWORD: paris
+    volumes:
+        - ./data/db:/data/db
