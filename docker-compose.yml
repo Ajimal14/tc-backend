@@ -11,6 +11,7 @@ services:
     ports:
       - '12345:27017'
     environment:
+        MONGO_INITDB_DATABASE: cms
         MONGO_INITDB_ROOT_USERNAME: admin
         MONGO_INITDB_ROOT_PASSWORD: paris
     volumes:
