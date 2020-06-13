@@ -1,12 +1,11 @@
 FROM node:14
 
+ENV NODE_ENV=production
 # Create app directory
 WORKDIR /usr/src/app
 
 # Install app dependencies
 COPY package*.json ./
-
-RUN npm install pm2 -g
 
 RUN npm install
 
