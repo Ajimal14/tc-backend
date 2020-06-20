@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/leagues",
+      "handler": "leagues.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/leagues/count",
+      "handler": "leagues.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/leagues/:id",
+      "handler": "leagues.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/leagues",
+      "handler": "leagues.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/leagues/:id",
+      "handler": "leagues.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/leagues/:id",
+      "handler": "leagues.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

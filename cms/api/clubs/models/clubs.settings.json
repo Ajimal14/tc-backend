@@ -1,0 +1,47 @@
+{
+  "kind": "collectionType",
+  "collectionName": "clubs",
+  "info": {
+    "name": "clubs"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "unique": true
+    },
+    "league": {
+      "model": "leagues"
+    },
+    "stadium": {
+      "type": "string"
+    },
+    "abv_name": {
+      "type": "string"
+    },
+    "manager": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "kit_sponsor": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "club_website": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "leagues",
+  "info": {
+    "name": "leagues"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "abv_name": {
+      "type": "string"
+    },
+    "countries": {
+      "via": "leagues",
+      "collection": "country",
+      "dominant": true
+    },
+    "logo": {
+      "type": "string"
+    }
+  }
+}
