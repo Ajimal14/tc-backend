@@ -1,31 +1,30 @@
 {
   "name": "cms",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "0.5.0",
+  "description": "TopCorner Defender | Backend",
   "scripts": {
-    "develop": "npm run postinstall && strapi develop",
+    "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi",
-    "postinstall": "node rebuild.js"
+    "strapi": "strapi"
   },
   "devDependencies": {
-    "mongodb": "^3.5.9"
+    "mongodb": "3.5.9"
   },
   "dependencies": {
-    "strapi": "3.0.1",
-    "strapi-admin": "3.0.1",
-    "strapi-utils": "3.0.1",
-    "strapi-plugin-content-type-builder": "3.0.1",
-    "strapi-plugin-content-manager": "3.0.1",
-    "strapi-plugin-users-permissions": "3.0.1",
-    "strapi-plugin-email": "3.0.1",
-    "strapi-plugin-upload": "3.0.1",
-    "strapi-connector-mongoose": "3.0.1"
+    "strapi": "3.0.5",
+    "strapi-admin": "3.0.5",
+    "strapi-connector-mongoose": "3.0.5",
+    "strapi-plugin-content-manager": "3.0.5",
+    "strapi-plugin-content-type-builder": "3.0.5",
+    "strapi-plugin-email": "3.0.5",
+    "strapi-plugin-upload": "3.0.5",
+    "strapi-plugin-users-permissions": "3.0.5",
+    "strapi-utils": "3.0.5"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Ashish Ajimal"
   },
   "strapi": {
     "uuid": "7974c347-d807-439b-ac51-32322631307c"
