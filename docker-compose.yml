@@ -1,18 +1,25 @@
-version: '3'
+version: "3"
 services:
   api:
     build: ./cms
     ports:
-      - '8000:3000'
+      - "8000:3000"
     depends_on:
       - mongo
   mongo:
     image: mongo
     ports:
-      - '12345:27017'
+      - "12345:27017"
     environment:
-        MONGO_INITDB_DATABASE: cms
-        MONGO_INITDB_ROOT_USERNAME: admin
-        MONGO_INITDB_ROOT_PASSWORD: paris
+      MONGO_INITDB_DATABASE: cms
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: paris
     volumes:
-        - ./data/db:/data/db
+      - ./data/db:/data/db
+  seed: 
+    image: mongo
+    links: 
+      - mongo:mongo
+    volumes:
+      - ./dump:/dump
+    command: mongorestore --host mongo -u admin -p paris --authenticationDatabase=admin --db cms /dump/cms
