@@ -1,8 +1,11 @@
 # Make mongodb backup as gzipped archive -T very important if you use docker-compose
 
-docker-compose exec -T [mongo service name] mongodump --db=[dbname] --gzip --archive|cat >dump_$(date '+%d-%m-%Y_%H-%M-%S').gz
+docker-compose exec -T [mongo service name] mongodump --db=cms --gzip --archive|cat latest.gz
 
 
-#Restore mongodb from gzipped archive
+# Restore mongodb from gzipped archive
 
-docker-compose exec -T mongo mongorestore --archive --gzip < dump_xxx.gz
+Docker-Compose seed container handles the Restoring part if it finds file named latest.gz in dump folder
+
+
+# Permission Error in API = delete user_permission_* collections in mongodb container

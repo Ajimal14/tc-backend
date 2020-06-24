@@ -6,6 +6,7 @@ services:
       - "8000:3000"
     depends_on:
       - mongo
+      - seed
   mongo:
     image: mongo
     ports:
@@ -22,4 +23,4 @@ services:
       - mongo:mongo
     volumes:
       - ./dump:/dump
-    command: mongorestore --host mongo -u admin -p paris --authenticationDatabase=admin --db cms --gzip --archive latest.gz
+    command: mongorestore --host mongo -u admin -p paris --authenticationDatabase=admin --gzip --archive=./dump/latest.gz
