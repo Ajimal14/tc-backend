@@ -22,4 +22,4 @@ services:
       - mongo:mongo
     volumes:
       - ./dump:/dump
-    command: mongorestore --host mongo -u admin -p paris --authenticationDatabase=admin --db cms /dump/cms
+    command: mongorestore --host mongo -u admin -p paris --authenticationDatabase=admin --db cms --gzip --archive latest.gz

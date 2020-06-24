@@ -1,2810 +1,2809 @@
-[
-	{
-	  "_id": {
+[{
+	"_id": {
 		"$oid": "5e9cab3225782b14e807616a"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Freiburg",
-	  "abbv_name": "Freiburg",
-	  "stadium": "",
-	  "manager": "Streich Christian",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Freiburg",
+	"abbv_name": "Freiburg",
+	"stadium": "",
+	"manager": "Streich Christian",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
 		"$date": "2020-04-19T19:49:06.177Z"
-	  },
-	  "updatedAt": {
+	},
+	"updatedAt": {
 		"$date": "2020-04-19T19:49:06.181Z"
-	  },
-	  "__v": 0,
-	  "league": {
+	},
+	"__v": 0,
+	"league": {
 		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807616b"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Werder Bremen",
-	  "abbv_name": "Werder Bremen",
-	  "stadium": "",
-	  "manager": "Kohfeldt Florian",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.201Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.203Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807616c"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Augsburg",
-	  "abbv_name": "Augsburg",
-	  "stadium": "",
-	  "manager": "Herrlich Heiko",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.218Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.221Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807616d"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Bayern Munich",
-	  "abbv_name": "Bayern Munich",
-	  "stadium": "",
-	  "manager": "Flick Hans-Dieter",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.234Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.235Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807616e"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "RB Leipzig",
-	  "abbv_name": "RB Leipzig",
-	  "stadium": "",
-	  "manager": "Nagelsmann Julian",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.249Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.252Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807616f"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Bayer Leverkusen",
-	  "abbv_name": "Bayer Leverkusen",
-	  "stadium": "",
-	  "manager": "Bosz Peter",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.265Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.267Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076170"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "FC Koln",
-	  "abbv_name": "FC Koln",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.285Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.287Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076171"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Dortmund",
-	  "abbv_name": "Dortmund",
-	  "stadium": "",
-	  "manager": "Favre Lucien",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.299Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:50:08.309Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076172"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Hertha Berlin",
-	  "abbv_name": "Hertha Berlin",
-	  "stadium": "",
-	  "manager": "Nouri Alexander",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.314Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.316Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076173"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Hoffenheim",
-	  "abbv_name": "Hoffenheim",
-	  "stadium": "",
-	  "manager": "Schreuder Alfred",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.329Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.331Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076174"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "B. Monchengladbach",
-	  "abbv_name": "B. Monchengladbach",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.344Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.346Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076175"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Schalke",
-	  "abbv_name": "Schalke",
-	  "stadium": "",
-	  "manager": "Wagner David",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.36Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.362Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076176"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Wolfsburg",
-	  "abbv_name": "Wolfsburg",
-	  "stadium": "",
-	  "manager": "Glasner Oliver",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.376Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.378Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076177"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Mainz",
-	  "abbv_name": "Mainz",
-	  "stadium": "",
-	  "manager": "Beierlorzer Achim",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.391Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.393Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076178"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Eintracht Frankfurt",
-	  "abbv_name": "Eintracht Frankfurt",
-	  "stadium": "",
-	  "manager": "Hutter Adi",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.425Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.428Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e8076179"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Union Berlin",
-	  "abbv_name": "Union Berlin",
-	  "stadium": "",
-	  "manager": "Fischer Urs",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.448Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.45Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807617a"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Dusseldorf",
-	  "abbv_name": "Dusseldorf",
-	  "stadium": "",
-	  "manager": "Rosler Uwe",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.463Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.465Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cab3225782b14e807617b"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Paderborn",
-	  "abbv_name": "Paderborn",
-	  "stadium": "",
-	  "manager": "Baumgart Steffen",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Germany",
-	  "createdAt": {
-		"$date": "2020-04-19T19:49:06.479Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:49:06.481Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c50e2a61d7f4f09df6803"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807617c"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Heerenveen",
-	  "abbv_name": "Heerenveen",
-	  "stadium": "",
-	  "manager": "Jansen Johnny",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.052Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.054Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807617d"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "AZ Alkmaar",
-	  "abbv_name": "AZ Alkmaar",
-	  "stadium": "",
-	  "manager": "Slot Arne",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.074Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.078Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807617e"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Sparta Rotterdam",
-	  "abbv_name": "Sparta Rotterdam",
-	  "stadium": "",
-	  "manager": "Fraser Henk",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.095Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.097Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807617f"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Groningen",
-	  "abbv_name": "Groningen",
-	  "stadium": "",
-	  "manager": "Buijs Danny",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.11Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.115Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076180"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Utrecht",
-	  "abbv_name": "Utrecht",
-	  "stadium": "",
-	  "manager": "van den Brom John",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.133Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.135Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076181"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Vitesse",
-	  "abbv_name": "Vitesse",
-	  "stadium": "",
-	  "manager": "Sturing Edward",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.147Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.15Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076182"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "PSV",
-	  "abbv_name": "PSV",
-	  "stadium": "",
-	  "manager": "Eijkelkamp Rene",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.164Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.167Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076183"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Willem II",
-	  "abbv_name": "Willem II",
-	  "stadium": "",
-	  "manager": "Koster Adrie",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.179Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.183Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076184"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Ajax",
-	  "abbv_name": "Ajax",
-	  "stadium": "",
-	  "manager": "L'Ami Carlo",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.199Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.201Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076185"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Zwolle",
-	  "abbv_name": "Zwolle",
-	  "stadium": "",
-	  "manager": "Stegeman John",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.216Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.218Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076186"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Den Haag",
-	  "abbv_name": "Den Haag",
-	  "stadium": "",
-	  "manager": "Pardew Alan",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.232Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.235Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076187"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Heracles",
-	  "abbv_name": "Heracles",
-	  "stadium": "",
-	  "manager": "De Graaf Colin",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.25Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.252Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076188"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Venlo",
-	  "abbv_name": "Venlo",
-	  "stadium": "",
-	  "manager": "de Koning Hans",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.265Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.268Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e8076189"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Feyenoord",
-	  "abbv_name": "Feyenoord",
-	  "stadium": "",
-	  "manager": "Advocaat Dick",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.282Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.285Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807618a"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Twente",
-	  "abbv_name": "Twente",
-	  "stadium": "",
-	  "manager": "Gonzalo",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.297Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.299Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807618b"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "FC Emmen",
-	  "abbv_name": "FC Emmen",
-	  "stadium": "",
-	  "manager": "Goedkoop Casper",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.315Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.317Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807618c"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Sittard",
-	  "abbv_name": "Sittard",
-	  "stadium": "",
-	  "manager": "Ultee Sjors",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.332Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.333Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cacbb25782b14e807618d"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Waalwijk",
-	  "abbv_name": "Waalwijk",
-	  "stadium": "",
-	  "manager": "Grim Fred",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Netherlands",
-	  "createdAt": {
-		"$date": "2020-04-19T19:55:39.349Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:55:39.35Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5161a61d7f4f09df6806"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807618e"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Espanyol",
-	  "abbv_name": "Espanyol",
-	  "stadium": "",
-	  "manager": "Abelardo",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.487Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.489Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807618f"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Betis",
-	  "abbv_name": "Betis",
-	  "stadium": "",
-	  "manager": "Rubi Joan",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.507Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.51Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076190"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Celta Vigo",
-	  "abbv_name": "Celta Vigo",
-	  "stadium": "",
-	  "manager": "Garcia Junyent Oscar",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.524Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.529Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076191"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Eibar",
-	  "abbv_name": "Eibar",
-	  "stadium": "",
-	  "manager": "Mendilibar Jose",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.543Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.545Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076192"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Levante",
-	  "abbv_name": "Levante",
-	  "stadium": "",
-	  "manager": "Lopez Paco",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.56Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.562Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076193"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Real Madrid",
-	  "abbv_name": "Real Madrid",
-	  "stadium": "",
-	  "manager": "Zidane Zinedine",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.574Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.576Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076194"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Getafe",
-	  "abbv_name": "Getafe",
-	  "stadium": "",
-	  "manager": "Bordalas Pepe",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.59Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.592Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076195"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Real Sociedad",
-	  "abbv_name": "Real Sociedad",
-	  "stadium": "",
-	  "manager": "Alguacil Imanol",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.604Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.606Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076196"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Sevilla",
-	  "abbv_name": "Sevilla",
-	  "stadium": "",
-	  "manager": "Lopetegui Julen",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.62Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.622Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076197"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Leganes",
-	  "abbv_name": "Leganes",
-	  "stadium": "",
-	  "manager": "Aguirre Javier",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.635Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.637Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076198"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Ath Bilbao",
-	  "abbv_name": "Ath Bilbao",
-	  "stadium": "",
-	  "manager": "Garitano Gaizka",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.654Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.656Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e8076199"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Barcelona",
-	  "abbv_name": "Barcelona",
-	  "stadium": "",
-	  "manager": "Setien Quique",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.668Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.67Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807619a"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Atl. Madrid",
-	  "abbv_name": "Atl. Madrid",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.685Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.687Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807619b"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Villarreal",
-	  "abbv_name": "Villarreal",
-	  "stadium": "",
-	  "manager": "Calleja Revilla Javier",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.703Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.705Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807619c"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Alaves",
-	  "abbv_name": "Alaves",
-	  "stadium": "",
-	  "manager": "Garitano Asier",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.721Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.723Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807619d"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Valencia",
-	  "abbv_name": "Valencia",
-	  "stadium": "",
-	  "manager": "Celades Albert",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.735Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.737Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807619e"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Granada CF",
-	  "abbv_name": "Granada CF",
-	  "stadium": "",
-	  "manager": "Martinez Diego",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.751Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.753Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e807619f"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Osasuna",
-	  "abbv_name": "Osasuna",
-	  "stadium": "",
-	  "manager": "Arrasate Jagoba",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.766Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.768Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e80761a0"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Valladolid",
-	  "abbv_name": "Valladolid",
-	  "stadium": "",
-	  "manager": "Sergio",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.783Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.785Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad2d25782b14e80761a1"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Mallorca",
-	  "abbv_name": "Mallorca",
-	  "stadium": "",
-	  "manager": "Moreno Vicente",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Spain",
-	  "createdAt": {
-		"$date": "2020-04-19T19:57:33.796Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:57:33.798Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c51d4a61d7f4f09df6809"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a2"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Leicester",
-	  "abbv_name": "Leicester",
-	  "stadium": "",
-	  "manager": "Rodgers Brendan",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.314Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.317Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a3"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Everton",
-	  "abbv_name": "Everton",
-	  "stadium": "",
-	  "manager": "Ancelotti Carlo",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.333Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.339Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a4"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Brighton",
-	  "abbv_name": "Brighton",
-	  "stadium": "",
-	  "manager": "Potter Graham",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.354Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.357Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a5"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Southampton",
-	  "abbv_name": "Southampton",
-	  "stadium": "",
-	  "manager": "Hasenhuttl Ralph",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.37Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.372Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a6"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Bournemouth",
-	  "abbv_name": "Bournemouth",
-	  "stadium": "",
-	  "manager": "Howe Eddie",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.387Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.389Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a7"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Chelsea",
-	  "abbv_name": "Chelsea",
-	  "stadium": "",
-	  "manager": "Lampard Frank",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.402Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.404Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a8"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Arsenal",
-	  "abbv_name": "Arsenal",
-	  "stadium": "",
-	  "manager": "Arteta Mikel",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.418Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.42Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761a9"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Crystal Palace",
-	  "abbv_name": "Crystal Palace",
-	  "stadium": "",
-	  "manager": "Hodgson Roy",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.433Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.435Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761aa"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "West Ham",
-	  "abbv_name": "West Ham",
-	  "stadium": "",
-	  "manager": "Moyes David William",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.449Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.451Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761ab"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Liverpool",
-	  "abbv_name": "Liverpool",
-	  "stadium": "",
-	  "manager": "Klopp Jurgen",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.464Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.466Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761ac"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Watford",
-	  "abbv_name": "Watford",
-	  "stadium": "",
-	  "manager": "Pearson Nigel",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.481Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.483Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761ad"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Manchester City",
-	  "abbv_name": "Manchester City",
-	  "stadium": "",
-	  "manager": "Guardiola Pep",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.496Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.498Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761ae"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Manchester United",
-	  "abbv_name": "Manchester United",
-	  "stadium": "",
-	  "manager": "Solskjaer Ole Gunnar",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.51Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.512Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761af"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Tottenham",
-	  "abbv_name": "Tottenham",
-	  "stadium": "",
-	  "manager": "Mourinho Jose",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.523Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.525Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761b0"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Burnley",
-	  "abbv_name": "Burnley",
-	  "stadium": "",
-	  "manager": "Dyche Sean",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.539Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.541Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761b1"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Newcastle",
-	  "abbv_name": "Newcastle",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.555Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.557Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761b2"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Aston Villa",
-	  "abbv_name": "Aston Villa",
-	  "stadium": "",
-	  "manager": "MacDonald Kevin",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.569Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.571Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761b3"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Norwich",
-	  "abbv_name": "Norwich",
-	  "stadium": "",
-	  "manager": "Farke Daniel",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.585Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.588Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761b4"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Wolves",
-	  "abbv_name": "Wolves",
-	  "stadium": "",
-	  "manager": "Espirito Santo",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.598Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.602Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cad7025782b14e80761b5"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Sheffield Utd",
-	  "abbv_name": "Sheffield Utd",
-	  "stadium": "",
-	  "manager": "Wilder Chris",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "England",
-	  "createdAt": {
-		"$date": "2020-04-19T19:58:40.614Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:58:40.616Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c522aa61d7f4f09df680c"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761b6"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Lille",
-	  "abbv_name": "Lille",
-	  "stadium": "",
-	  "manager": "Galtier Christophe",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.523Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.525Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761b7"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Marseille",
-	  "abbv_name": "Marseille",
-	  "stadium": "",
-	  "manager": "Villas-Boas Andre",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.545Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.548Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761b8"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Toulouse",
-	  "abbv_name": "Toulouse",
-	  "stadium": "",
-	  "manager": "Zanko Denis",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.563Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.566Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761b9"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "St Etienne",
-	  "abbv_name": "St Etienne",
-	  "stadium": "",
-	  "manager": "Puel Claude",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.58Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.582Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761ba"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Lyon",
-	  "abbv_name": "Lyon",
-	  "stadium": "",
-	  "manager": "Garcia Rudi",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.596Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.598Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761bb"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Metz",
-	  "abbv_name": "Metz",
-	  "stadium": "",
-	  "manager": "Hognon Vincent",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.611Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.613Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761bc"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Dijon",
-	  "abbv_name": "Dijon",
-	  "stadium": "",
-	  "manager": "Jobard Stephane",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.629Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.631Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761bd"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Nantes",
-	  "abbv_name": "Nantes",
-	  "stadium": "",
-	  "manager": "Gourcuff Christian",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.644Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.646Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761be"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Amiens",
-	  "abbv_name": "Amiens",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.66Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.663Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761bf"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Montpellier",
-	  "abbv_name": "Montpellier",
-	  "stadium": "",
-	  "manager": "Der Zakarian Michel",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.677Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.679Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c0"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Rennes",
-	  "abbv_name": "Rennes",
-	  "stadium": "",
-	  "manager": "Stephan Julien",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.702Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.707Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c1"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Strasbourg",
-	  "abbv_name": "Strasbourg",
-	  "stadium": "",
-	  "manager": "Laurey Thierry",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.736Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.738Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c2"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Angers",
-	  "abbv_name": "Angers",
-	  "stadium": "",
-	  "manager": "Moulin Stephane",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.752Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.755Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c3"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Bordeaux",
-	  "abbv_name": "Bordeaux",
-	  "stadium": "",
-	  "manager": "Sousa Paulo",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.768Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.77Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c4"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Monaco",
-	  "abbv_name": "Monaco",
-	  "stadium": "",
-	  "manager": "Moreno Robert",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.791Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.793Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c5"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Paris Saint Germain",
-	  "abbv_name": "Paris SG",
-	  "stadium": "",
-	  "manager": "Thomas Tuchel",
-	  "owner": "",
-	  "city": "Paris",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.804Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:01:30.26Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c6"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Nice",
-	  "abbv_name": "Nice",
-	  "stadium": "",
-	  "manager": "Vieira Patrick",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.819Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.821Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c7"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Reims",
-	  "abbv_name": "Reims",
-	  "stadium": "",
-	  "manager": "Guion David",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.831Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.833Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c8"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Nimes",
-	  "abbv_name": "Nimes",
-	  "stadium": "",
-	  "manager": "Blaquart Bernard",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.846Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.848Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cada825782b14e80761c9"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Brest",
-	  "abbv_name": "Brest",
-	  "stadium": "",
-	  "manager": "Dall'Oglio Olivier",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "France",
-	  "createdAt": {
-		"$date": "2020-04-19T19:59:36.859Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T19:59:36.862Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c5266a61d7f4f09df680f"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761ca"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Torino",
-	  "abbv_name": "Torino",
-	  "stadium": "",
-	  "manager": "Longo Moreno",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.016Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.019Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761cb"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Cagliari",
-	  "abbv_name": "Cagliari",
-	  "stadium": "",
-	  "manager": "Zenga Walter",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.039Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.041Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761cc"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Fiorentina",
-	  "abbv_name": "Fiorentina",
-	  "stadium": "",
-	  "manager": "Iachini Giuseppe",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.057Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.06Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761cd"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Napoli",
-	  "abbv_name": "Napoli",
-	  "stadium": "",
-	  "manager": "Gattuso Gennaro",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.076Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.078Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761ce"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Sassuolo",
-	  "abbv_name": "Sassuolo",
-	  "stadium": "",
-	  "manager": "Cavalli Michele",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.095Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.097Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761cf"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Sampdoria",
-	  "abbv_name": "Sampdoria",
-	  "stadium": "",
-	  "manager": "Ranieri Claudio",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.112Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.115Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d0"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Spal",
-	  "abbv_name": "Spal",
-	  "stadium": "",
-	  "manager": "Di Biagio Luigi",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.132Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.135Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d1"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Genoa",
-	  "abbv_name": "Genoa",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.152Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.154Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d2"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Udinese",
-	  "abbv_name": "Udinese",
-	  "stadium": "",
-	  "manager": "Gotti Luca",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.172Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.175Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d3"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Atalanta",
-	  "abbv_name": "Atalanta",
-	  "stadium": "",
-	  "manager": "Gasperini Gian Piero",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.192Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.194Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d4"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Lazio",
-	  "abbv_name": "Lazio",
-	  "stadium": "",
-	  "manager": "Inzaghi Simone",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.214Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.217Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d5"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "AS Roma",
-	  "abbv_name": "AS Roma",
-	  "stadium": "",
-	  "manager": "Campos Nuno",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.23Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.233Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d6"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Bologna",
-	  "abbv_name": "Bologna",
-	  "stadium": "",
-	  "manager": "Mihajlovic Sinisa",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.248Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.25Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d7"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "AC Milan",
-	  "abbv_name": "AC Milan",
-	  "stadium": "",
-	  "manager": "Pioli Stefano",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.264Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.266Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d8"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Juventus",
-	  "abbv_name": "Juventus",
-	  "stadium": "",
-	  "manager": "Martusciello Giovanni",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.281Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.283Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761d9"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Verona",
-	  "abbv_name": "Verona",
-	  "stadium": "",
-	  "manager": "Juric Ivan",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.299Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.303Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761da"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Inter",
-	  "abbv_name": "Inter",
-	  "stadium": "",
-	  "manager": "Conte Antonio",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.317Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.319Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761db"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Parma",
-	  "abbv_name": "Parma",
-	  "stadium": "",
-	  "manager": "D'Aversa Roberto",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.333Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.335Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761dc"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Brescia",
-	  "abbv_name": "Brescia",
-	  "stadium": "",
-	  "manager": "Lopez Breijo Luis Diego",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.349Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.351Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761dd"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Piacenza",
-	  "abbv_name": "Piacenza",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.367Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.374Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
-	},
-	{
-	  "_id": {
-		"$oid": "5e9cadd225782b14e80761de"
-	  },
-	  "brands": "kit",
-	  "logo": [],
-	  "name": "Lecce",
-	  "abbv_name": "Lecce",
-	  "stadium": "",
-	  "manager": "",
-	  "owner": "",
-	  "city": "TBD",
-	  "country": "Italy",
-	  "createdAt": {
-		"$date": "2020-04-19T20:00:18.391Z"
-	  },
-	  "updatedAt": {
-		"$date": "2020-04-19T20:00:18.394Z"
-	  },
-	  "__v": 0,
-	  "league": {
-		"$oid": "5e9c52afa61d7f4f09df6812"
-	  }
 	}
-  ]
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807616b"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Werder Bremen",
+	"abbv_name": "Werder Bremen",
+	"stadium": "",
+	"manager": "Kohfeldt Florian",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.201Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.203Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807616c"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Augsburg",
+	"abbv_name": "Augsburg",
+	"stadium": "",
+	"manager": "Herrlich Heiko",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.218Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.221Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807616d"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Bayern Munich",
+	"abbv_name": "Bayern Munich",
+	"stadium": "",
+	"manager": "Flick Hans-Dieter",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.234Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.235Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807616e"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "RB Leipzig",
+	"abbv_name": "RB Leipzig",
+	"stadium": "",
+	"manager": "Nagelsmann Julian",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.249Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.252Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807616f"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Bayer Leverkusen",
+	"abbv_name": "Bayer Leverkusen",
+	"stadium": "",
+	"manager": "Bosz Peter",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.265Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.267Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076170"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "FC Koln",
+	"abbv_name": "FC Koln",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.285Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.287Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076171"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Dortmund",
+	"abbv_name": "Dortmund",
+	"stadium": "",
+	"manager": "Favre Lucien",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.299Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:50:08.309Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076172"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Hertha Berlin",
+	"abbv_name": "Hertha Berlin",
+	"stadium": "",
+	"manager": "Nouri Alexander",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.314Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.316Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076173"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Hoffenheim",
+	"abbv_name": "Hoffenheim",
+	"stadium": "",
+	"manager": "Schreuder Alfred",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.329Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.331Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076174"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "B. Monchengladbach",
+	"abbv_name": "B. Monchengladbach",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.344Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.346Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076175"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Schalke",
+	"abbv_name": "Schalke",
+	"stadium": "",
+	"manager": "Wagner David",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.36Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.362Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076176"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Wolfsburg",
+	"abbv_name": "Wolfsburg",
+	"stadium": "",
+	"manager": "Glasner Oliver",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.376Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.378Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076177"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Mainz",
+	"abbv_name": "Mainz",
+	"stadium": "",
+	"manager": "Beierlorzer Achim",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.391Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.393Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076178"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Eintracht Frankfurt",
+	"abbv_name": "Eintracht Frankfurt",
+	"stadium": "",
+	"manager": "Hutter Adi",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.425Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.428Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e8076179"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Union Berlin",
+	"abbv_name": "Union Berlin",
+	"stadium": "",
+	"manager": "Fischer Urs",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.448Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.45Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807617a"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Dusseldorf",
+	"abbv_name": "Dusseldorf",
+	"stadium": "",
+	"manager": "Rosler Uwe",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.463Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.465Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cab3225782b14e807617b"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Paderborn",
+	"abbv_name": "Paderborn",
+	"stadium": "",
+	"manager": "Baumgart Steffen",
+	"owner": "",
+	"city": "TBD",
+	"country": "Germany",
+	"createdAt": {
+		"$date": "2020-04-19T19:49:06.479Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:49:06.481Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c50e2a61d7f4f09df6803"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807617c"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Heerenveen",
+	"abbv_name": "Heerenveen",
+	"stadium": "",
+	"manager": "Jansen Johnny",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.052Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.054Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807617d"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "AZ Alkmaar",
+	"abbv_name": "AZ Alkmaar",
+	"stadium": "",
+	"manager": "Slot Arne",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.074Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.078Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807617e"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Sparta Rotterdam",
+	"abbv_name": "Sparta Rotterdam",
+	"stadium": "",
+	"manager": "Fraser Henk",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.095Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.097Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807617f"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Groningen",
+	"abbv_name": "Groningen",
+	"stadium": "",
+	"manager": "Buijs Danny",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.11Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.115Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076180"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Utrecht",
+	"abbv_name": "Utrecht",
+	"stadium": "",
+	"manager": "van den Brom John",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.133Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.135Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076181"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Vitesse",
+	"abbv_name": "Vitesse",
+	"stadium": "",
+	"manager": "Sturing Edward",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.147Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.15Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076182"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "PSV",
+	"abbv_name": "PSV",
+	"stadium": "",
+	"manager": "Eijkelkamp Rene",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.164Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.167Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076183"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Willem II",
+	"abbv_name": "Willem II",
+	"stadium": "",
+	"manager": "Koster Adrie",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.179Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.183Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076184"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Ajax",
+	"abbv_name": "Ajax",
+	"stadium": "",
+	"manager": "L'Ami Carlo",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.199Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.201Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076185"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Zwolle",
+	"abbv_name": "Zwolle",
+	"stadium": "",
+	"manager": "Stegeman John",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.216Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.218Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076186"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Den Haag",
+	"abbv_name": "Den Haag",
+	"stadium": "",
+	"manager": "Pardew Alan",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.232Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.235Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076187"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Heracles",
+	"abbv_name": "Heracles",
+	"stadium": "",
+	"manager": "De Graaf Colin",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.25Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.252Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076188"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Venlo",
+	"abbv_name": "Venlo",
+	"stadium": "",
+	"manager": "de Koning Hans",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.265Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.268Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e8076189"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Feyenoord",
+	"abbv_name": "Feyenoord",
+	"stadium": "",
+	"manager": "Advocaat Dick",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.282Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.285Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807618a"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Twente",
+	"abbv_name": "Twente",
+	"stadium": "",
+	"manager": "Gonzalo",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.297Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.299Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807618b"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "FC Emmen",
+	"abbv_name": "FC Emmen",
+	"stadium": "",
+	"manager": "Goedkoop Casper",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.315Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.317Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807618c"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Sittard",
+	"abbv_name": "Sittard",
+	"stadium": "",
+	"manager": "Ultee Sjors",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.332Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.333Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cacbb25782b14e807618d"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Waalwijk",
+	"abbv_name": "Waalwijk",
+	"stadium": "",
+	"manager": "Grim Fred",
+	"owner": "",
+	"city": "TBD",
+	"country": "Netherlands",
+	"createdAt": {
+		"$date": "2020-04-19T19:55:39.349Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:55:39.35Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5161a61d7f4f09df6806"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807618e"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Espanyol",
+	"abbv_name": "Espanyol",
+	"stadium": "",
+	"manager": "Abelardo",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.487Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.489Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807618f"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Betis",
+	"abbv_name": "Betis",
+	"stadium": "",
+	"manager": "Rubi Joan",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.507Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.51Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076190"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Celta Vigo",
+	"abbv_name": "Celta Vigo",
+	"stadium": "",
+	"manager": "Garcia Junyent Oscar",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.524Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.529Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076191"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Eibar",
+	"abbv_name": "Eibar",
+	"stadium": "",
+	"manager": "Mendilibar Jose",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.543Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.545Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076192"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Levante",
+	"abbv_name": "Levante",
+	"stadium": "",
+	"manager": "Lopez Paco",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.56Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.562Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076193"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Real Madrid",
+	"abbv_name": "Real Madrid",
+	"stadium": "",
+	"manager": "Zidane Zinedine",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.574Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.576Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076194"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Getafe",
+	"abbv_name": "Getafe",
+	"stadium": "",
+	"manager": "Bordalas Pepe",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.59Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.592Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076195"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Real Sociedad",
+	"abbv_name": "Real Sociedad",
+	"stadium": "",
+	"manager": "Alguacil Imanol",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.604Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.606Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076196"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Sevilla",
+	"abbv_name": "Sevilla",
+	"stadium": "",
+	"manager": "Lopetegui Julen",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.62Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.622Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076197"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Leganes",
+	"abbv_name": "Leganes",
+	"stadium": "",
+	"manager": "Aguirre Javier",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.635Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.637Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076198"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Ath Bilbao",
+	"abbv_name": "Ath Bilbao",
+	"stadium": "",
+	"manager": "Garitano Gaizka",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.654Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.656Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e8076199"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Barcelona",
+	"abbv_name": "Barcelona",
+	"stadium": "",
+	"manager": "Setien Quique",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.668Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.67Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807619a"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Atl. Madrid",
+	"abbv_name": "Atl. Madrid",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.685Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.687Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807619b"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Villarreal",
+	"abbv_name": "Villarreal",
+	"stadium": "",
+	"manager": "Calleja Revilla Javier",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.703Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.705Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807619c"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Alaves",
+	"abbv_name": "Alaves",
+	"stadium": "",
+	"manager": "Garitano Asier",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.721Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.723Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807619d"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Valencia",
+	"abbv_name": "Valencia",
+	"stadium": "",
+	"manager": "Celades Albert",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.735Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.737Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807619e"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Granada CF",
+	"abbv_name": "Granada CF",
+	"stadium": "",
+	"manager": "Martinez Diego",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.751Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.753Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e807619f"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Osasuna",
+	"abbv_name": "Osasuna",
+	"stadium": "",
+	"manager": "Arrasate Jagoba",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.766Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.768Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e80761a0"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Valladolid",
+	"abbv_name": "Valladolid",
+	"stadium": "",
+	"manager": "Sergio",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.783Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.785Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad2d25782b14e80761a1"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Mallorca",
+	"abbv_name": "Mallorca",
+	"stadium": "",
+	"manager": "Moreno Vicente",
+	"owner": "",
+	"city": "TBD",
+	"country": "Spain",
+	"createdAt": {
+		"$date": "2020-04-19T19:57:33.796Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:57:33.798Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c51d4a61d7f4f09df6809"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a2"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Leicester",
+	"abbv_name": "Leicester",
+	"stadium": "",
+	"manager": "Rodgers Brendan",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.314Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.317Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a3"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Everton",
+	"abbv_name": "Everton",
+	"stadium": "",
+	"manager": "Ancelotti Carlo",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.333Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.339Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a4"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Brighton",
+	"abbv_name": "Brighton",
+	"stadium": "",
+	"manager": "Potter Graham",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.354Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.357Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a5"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Southampton",
+	"abbv_name": "Southampton",
+	"stadium": "",
+	"manager": "Hasenhuttl Ralph",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.37Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.372Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a6"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Bournemouth",
+	"abbv_name": "Bournemouth",
+	"stadium": "",
+	"manager": "Howe Eddie",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.387Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.389Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a7"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Chelsea",
+	"abbv_name": "Chelsea",
+	"stadium": "",
+	"manager": "Lampard Frank",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.402Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.404Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a8"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Arsenal",
+	"abbv_name": "Arsenal",
+	"stadium": "",
+	"manager": "Arteta Mikel",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.418Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.42Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761a9"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Crystal Palace",
+	"abbv_name": "Crystal Palace",
+	"stadium": "",
+	"manager": "Hodgson Roy",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.433Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.435Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761aa"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "West Ham",
+	"abbv_name": "West Ham",
+	"stadium": "",
+	"manager": "Moyes David William",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.449Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.451Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761ab"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Liverpool",
+	"abbv_name": "Liverpool",
+	"stadium": "",
+	"manager": "Klopp Jurgen",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.464Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.466Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761ac"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Watford",
+	"abbv_name": "Watford",
+	"stadium": "",
+	"manager": "Pearson Nigel",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.481Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.483Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761ad"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Manchester City",
+	"abbv_name": "Manchester City",
+	"stadium": "",
+	"manager": "Guardiola Pep",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.496Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.498Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761ae"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Manchester United",
+	"abbv_name": "Manchester United",
+	"stadium": "",
+	"manager": "Solskjaer Ole Gunnar",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.51Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.512Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761af"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Tottenham",
+	"abbv_name": "Tottenham",
+	"stadium": "",
+	"manager": "Mourinho Jose",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.523Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.525Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761b0"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Burnley",
+	"abbv_name": "Burnley",
+	"stadium": "",
+	"manager": "Dyche Sean",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.539Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.541Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761b1"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Newcastle",
+	"abbv_name": "Newcastle",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.555Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.557Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761b2"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Aston Villa",
+	"abbv_name": "Aston Villa",
+	"stadium": "",
+	"manager": "MacDonald Kevin",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.569Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.571Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761b3"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Norwich",
+	"abbv_name": "Norwich",
+	"stadium": "",
+	"manager": "Farke Daniel",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.585Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.588Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761b4"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Wolves",
+	"abbv_name": "Wolves",
+	"stadium": "",
+	"manager": "Espirito Santo",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.598Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.602Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cad7025782b14e80761b5"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Sheffield Utd",
+	"abbv_name": "Sheffield Utd",
+	"stadium": "",
+	"manager": "Wilder Chris",
+	"owner": "",
+	"city": "TBD",
+	"country": "England",
+	"createdAt": {
+		"$date": "2020-04-19T19:58:40.614Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:58:40.616Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c522aa61d7f4f09df680c"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761b6"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Lille",
+	"abbv_name": "Lille",
+	"stadium": "",
+	"manager": "Galtier Christophe",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.523Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.525Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761b7"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Marseille",
+	"abbv_name": "Marseille",
+	"stadium": "",
+	"manager": "Villas-Boas Andre",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.545Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.548Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761b8"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Toulouse",
+	"abbv_name": "Toulouse",
+	"stadium": "",
+	"manager": "Zanko Denis",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.563Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.566Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761b9"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "St Etienne",
+	"abbv_name": "St Etienne",
+	"stadium": "",
+	"manager": "Puel Claude",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.58Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.582Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761ba"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Lyon",
+	"abbv_name": "Lyon",
+	"stadium": "",
+	"manager": "Garcia Rudi",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.596Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.598Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761bb"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Metz",
+	"abbv_name": "Metz",
+	"stadium": "",
+	"manager": "Hognon Vincent",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.611Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.613Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761bc"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Dijon",
+	"abbv_name": "Dijon",
+	"stadium": "",
+	"manager": "Jobard Stephane",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.629Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.631Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761bd"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Nantes",
+	"abbv_name": "Nantes",
+	"stadium": "",
+	"manager": "Gourcuff Christian",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.644Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.646Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761be"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Amiens",
+	"abbv_name": "Amiens",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.66Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.663Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761bf"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Montpellier",
+	"abbv_name": "Montpellier",
+	"stadium": "",
+	"manager": "Der Zakarian Michel",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.677Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.679Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c0"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Rennes",
+	"abbv_name": "Rennes",
+	"stadium": "",
+	"manager": "Stephan Julien",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.702Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.707Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c1"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Strasbourg",
+	"abbv_name": "Strasbourg",
+	"stadium": "",
+	"manager": "Laurey Thierry",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.736Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.738Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c2"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Angers",
+	"abbv_name": "Angers",
+	"stadium": "",
+	"manager": "Moulin Stephane",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.752Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.755Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c3"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Bordeaux",
+	"abbv_name": "Bordeaux",
+	"stadium": "",
+	"manager": "Sousa Paulo",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.768Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.77Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c4"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Monaco",
+	"abbv_name": "Monaco",
+	"stadium": "",
+	"manager": "Moreno Robert",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.791Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.793Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c5"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Paris Saint Germain",
+	"abbv_name": "Paris SG",
+	"stadium": "",
+	"manager": "Thomas Tuchel",
+	"owner": "",
+	"city": "Paris",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.804Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:01:30.26Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c6"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Nice",
+	"abbv_name": "Nice",
+	"stadium": "",
+	"manager": "Vieira Patrick",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.819Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.821Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c7"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Reims",
+	"abbv_name": "Reims",
+	"stadium": "",
+	"manager": "Guion David",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.831Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.833Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c8"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Nimes",
+	"abbv_name": "Nimes",
+	"stadium": "",
+	"manager": "Blaquart Bernard",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.846Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.848Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cada825782b14e80761c9"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Brest",
+	"abbv_name": "Brest",
+	"stadium": "",
+	"manager": "Dall'Oglio Olivier",
+	"owner": "",
+	"city": "TBD",
+	"country": "France",
+	"createdAt": {
+		"$date": "2020-04-19T19:59:36.859Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T19:59:36.862Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c5266a61d7f4f09df680f"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761ca"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Torino",
+	"abbv_name": "Torino",
+	"stadium": "",
+	"manager": "Longo Moreno",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.016Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.019Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761cb"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Cagliari",
+	"abbv_name": "Cagliari",
+	"stadium": "",
+	"manager": "Zenga Walter",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.039Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.041Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761cc"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Fiorentina",
+	"abbv_name": "Fiorentina",
+	"stadium": "",
+	"manager": "Iachini Giuseppe",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.057Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.06Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761cd"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Napoli",
+	"abbv_name": "Napoli",
+	"stadium": "",
+	"manager": "Gattuso Gennaro",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.076Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.078Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761ce"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Sassuolo",
+	"abbv_name": "Sassuolo",
+	"stadium": "",
+	"manager": "Cavalli Michele",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.095Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.097Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761cf"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Sampdoria",
+	"abbv_name": "Sampdoria",
+	"stadium": "",
+	"manager": "Ranieri Claudio",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.112Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.115Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d0"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Spal",
+	"abbv_name": "Spal",
+	"stadium": "",
+	"manager": "Di Biagio Luigi",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.132Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.135Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d1"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Genoa",
+	"abbv_name": "Genoa",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.152Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.154Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d2"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Udinese",
+	"abbv_name": "Udinese",
+	"stadium": "",
+	"manager": "Gotti Luca",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.172Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.175Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d3"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Atalanta",
+	"abbv_name": "Atalanta",
+	"stadium": "",
+	"manager": "Gasperini Gian Piero",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.192Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.194Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d4"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Lazio",
+	"abbv_name": "Lazio",
+	"stadium": "",
+	"manager": "Inzaghi Simone",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.214Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.217Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d5"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "AS Roma",
+	"abbv_name": "AS Roma",
+	"stadium": "",
+	"manager": "Campos Nuno",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.23Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.233Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d6"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Bologna",
+	"abbv_name": "Bologna",
+	"stadium": "",
+	"manager": "Mihajlovic Sinisa",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.248Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.25Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d7"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "AC Milan",
+	"abbv_name": "AC Milan",
+	"stadium": "",
+	"manager": "Pioli Stefano",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.264Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.266Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d8"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Juventus",
+	"abbv_name": "Juventus",
+	"stadium": "",
+	"manager": "Martusciello Giovanni",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.281Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.283Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761d9"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Verona",
+	"abbv_name": "Verona",
+	"stadium": "",
+	"manager": "Juric Ivan",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.299Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.303Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761da"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Inter",
+	"abbv_name": "Inter",
+	"stadium": "",
+	"manager": "Conte Antonio",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.317Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.319Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761db"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Parma",
+	"abbv_name": "Parma",
+	"stadium": "",
+	"manager": "D'Aversa Roberto",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.333Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.335Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761dc"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Brescia",
+	"abbv_name": "Brescia",
+	"stadium": "",
+	"manager": "Lopez Breijo Luis Diego",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.349Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.351Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761dd"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Piacenza",
+	"abbv_name": "Piacenza",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.367Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.374Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+},
+{
+	"_id": {
+		"$oid": "5e9cadd225782b14e80761de"
+	},
+	"brands": "kit",
+	"logo": [],
+	"name": "Lecce",
+	"abbv_name": "Lecce",
+	"stadium": "",
+	"manager": "",
+	"owner": "",
+	"city": "TBD",
+	"country": "Italy",
+	"createdAt": {
+		"$date": "2020-04-19T20:00:18.391Z"
+	},
+	"updatedAt": {
+		"$date": "2020-04-19T20:00:18.394Z"
+	},
+	"__v": 0,
+	"league": {
+		"$oid": "5e9c52afa61d7f4f09df6812"
+	}
+}]
+

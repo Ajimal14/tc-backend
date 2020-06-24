@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "players",
+  "info": {
+    "name": "players"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "abv_name": {
+      "type": "string"
+    },
+    "kit_number": {
+      "type": "string"
+    },
+    "country": {
+      "model": "country"
+    },
+    "position": {
+      "type": "string"
+    },
+    "clubs": {
+      "model": "clubs"
+    }
+  }
+}
